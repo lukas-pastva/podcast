@@ -1,6 +1,6 @@
 # podcast
 Me and my wife podcasting
-
+```log
 ---------------------------------------------------
 PODCAST:
 obsluha v regiojete
@@ -14,3 +14,4 @@ weak people create bad times
 karierny rozvoj zien a materska "dovolenka"
 Boh nalozi iba tomu kto zvladne
 ---------------------------------------------------
+```
