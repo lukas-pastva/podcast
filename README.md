@@ -1,17 +1,18 @@
 # podcast
-Me and my wife podcasting
+So svojou manželkou nahrávame podcast.
 ```log
 ---------------------------------------------------
 PODCAST:
-obsluha v regiojete
-ufo
-it kariera
-financovanie/investovanie
-cryptho etf and bullshit
-osobny rozvoj v zmysle lider alebo obet
-rozhovor s minom pred regiojet-expectations of millenials
-weak people create bad times
-karierny rozvoj zien a materska "dovolenka"
-Boh nalozi iba tomu kto zvladne
+obsluha v RegioJete
+UFO
+IT kariéra
+financovanie a investovanie
+krypto, ETF a nezmysly
+osobný rozvoj: líder alebo obeť
+rozhovor s Minom pred RegioJetom – očakávania mileniálov
+slabí ľudia vytvárajú zlé časy
+kariérny rozvoj žien a „materská dovolenka“
+Boh naloží iba tomu, kto zvládne
 ---------------------------------------------------
 ```
+
